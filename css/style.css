@@ -1,0 +1,30 @@
+body {
+    background-color: #cefffe;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+
+}
+
+.header {
+    background-color: rgb(115, 199, 215);
+    padding: 33px;
+}
+
+.header h1 {
+    display: flex;
+    font-size: 20px;
+    justify-content: baseline;
+}
+
+.footer {
+    display: flex;
+    background-color: #13396e;
+    padding: 100px 10px;
+    
+}
+
+.footer h1 {
+    display: flex;
+    font-size: 20px;
+    justify-content: baseline;
+}
